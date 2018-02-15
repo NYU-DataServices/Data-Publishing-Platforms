@@ -1,7 +1,7 @@
-### Connecting your Data to Publication
+### Data Publishing Platforms
 
 #### Description
-There is increasing pressure from top journals and grant agencies to include supporting research data at time of publication, however the burden of storage often falls to the researcher. In this session will cover tools and repositories that can help connect your publications with the corresponding data. 
+These materials accompany a workshop offered for Love Data Week focusing on how to bring one's research data to an online environment and how to approach finding a final preservation home for data. 
 
 #### Topics 
 data publishing, code publishing, publishing, research metrics
